@@ -1,6 +1,6 @@
 # Ejemplos UML - Diagramas de clase
 Primer ejemplo de una clase en UML:
 
-![](diagramas/digrama1.drawio.svg)
+![diagrama1](diagramas/digrama1.drawio.svg)
 
-![](diagramas/diagrama2.drawio)
+![diagrama2](diagramas/diagrama2.drawio)
