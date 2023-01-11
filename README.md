@@ -2,3 +2,4 @@
 Primer ejemplo de una clase en UML:
 
 ![](diagramas/digrama1.svg)
+![](diagramas/diagrama2.drawio)
