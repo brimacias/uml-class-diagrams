@@ -1,9 +1,11 @@
 public class codigoKotlin {
     public static void displayBorder (char character, int lenght) {
+        /*
         character = '=';
         lenght = 15;
+         */
         for (int i = 0; i<=lenght; i++) {
-            System.out.println(character);
+            System.out.print(character);
         }
     }
 
@@ -14,7 +16,7 @@ public class codigoKotlin {
 
     public static void funcion(String string1, String string2, int entero) {
         string1 = "\nHola";
-        string2 = " Mundo";
+        string2 = " Mundo ";
         entero = 23;
         System.out.println(string1 +  string2 + entero);
     }
