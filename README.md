@@ -11,3 +11,7 @@ Primer ejemplo de una clase en UML:
 
 ![diagrama4](diagramas/diagrama4.drawio.svg)
 
+Diagrama del ejemplo de kotlin:
+
+![diagramakotlin](diagramas/diagramaCodKotlin.svg)
+
