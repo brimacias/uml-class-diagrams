@@ -1,16 +1,16 @@
 package ClientesFacturas;
 
-import java.util.Date;
 
+import java.math.BigDecimal;
 
 public class Factura {
     //idCliente
     private int idFactura;
-    private Date fechaFactura;
+    private BigDecimal importe;
 
     @Override
     public String toString() {
         return "Identificador de la factura: " + idFactura +
-                "\nFecha: " + fechaFactura;
+                "\nImporte: " + importe;
     }
 }

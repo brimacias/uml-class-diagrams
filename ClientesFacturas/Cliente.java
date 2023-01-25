@@ -7,6 +7,7 @@ import java.util.Date;
     private String dni;
     private int idCliente;
     private String nombre;
+    private String apellidos;
     private Date fechaNacimiento;
     private String[] facturas;
 
@@ -16,6 +17,7 @@ import java.util.Date;
                  "dni='" + dni + '\'' +
                  ", idCliente=" + idCliente +
                  ", nombre='" + nombre + '\'' +
+                 ", apellidos='"+ apellidos + '\'' +
                  ", fechaNacimiento=" + fechaNacimiento +
                  ", facturas=" + Arrays.toString(facturas) +
                  '}';
