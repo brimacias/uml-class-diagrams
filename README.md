@@ -15,3 +15,7 @@ Diagrama del ejemplo de kotlin:
 
 ![diagramakotlin](diagramas/diagramaCodKotlin.svg)
 
+Diagrama Clientes y Facturas:
+
+![diagramaClientesFacturas](diagramas/diagramaClientesFacturas.drawio.svg)
+

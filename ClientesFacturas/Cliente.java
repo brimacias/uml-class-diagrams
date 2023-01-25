@@ -20,5 +20,5 @@ import java.util.Date;
                  ", facturas=" + Arrays.toString(facturas) +
                  '}';
      }
-     
+
  }
